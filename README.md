@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex Evans
 - 👀 I’m interested in learning as much as I can about web design, software development and anything in between. 
-- 🌱 I’m currently learning Javascript, C#, SQL, PHP and many more at Toi Ohomai. 
+- 🌱 I’m currently learning Javascript, C#, SQL, Docker and many more at Toi Ohomai. 
 - 🌱 I'm also working through the Odin Project in my spare time.
 - 👀 Looking for any IT related work around the Turanga, Papamoa, Mount Maunganui area. 
 
