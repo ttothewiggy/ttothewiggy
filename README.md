@@ -8,6 +8,8 @@
 
 - 👀 Take a look at my [Today I learned](https://github.com/ttothewiggy/TIL) repo to keep up to date on what I've been working on. 
 
+Today I Learned is a collection of notes, cheatsheets, diary entries and tricks I've learnt from my studies and work. It's like a cashiers till that stores all the valuable money from a days work. This personal TIL holds all the information I've been learning on my jounrey into IT. 
+
 
 <!---
 ttothewiggy/ttothewiggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
