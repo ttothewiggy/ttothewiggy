@@ -6,6 +6,9 @@
 
 - 📫 Reach me at alexdavidevans@gmail.com
 
+- 👀 Take a look at my [Today I learned](https://github.com/ttothewiggy/TIL) repo to keep up to date on what I've been working on. 
+
+
 <!---
 ttothewiggy/ttothewiggy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
