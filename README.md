@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Alex Evans
 - 👀 I’m interested in learning as much as I can about web design, software development and anything in between. 
-- 🌱 I’m currently learning Javascript, C#, SQL, Docker and many more at Toi Ohomai. 
-- 🌱 I'm also working through the Odin Project in my spare time.
-- 👀 Looking for any IT related work around the Tauranga, Papamoa, Mount Maunganui area. 
+- 🌱 I’m currently learning Javascript, C#, SQL, Docker, PowerBI and many more. 
+- 🌱 I'm also working through the C# Acadamy and The Odin Project in my spare time.
+
+- Working as an Application Support Consultant (Help Desk) at Cucumber.co.nz. 
 
 - 📫 Reach me at alexdavidevans@gmail.com
 
